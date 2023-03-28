@@ -26,7 +26,6 @@ struct BottomCardView: View {
         .background(.white)
         .cornerRadius(30)
         .shadow(radius: 20)
-        .offset(x:0, y: 500)
     }
 }
 
